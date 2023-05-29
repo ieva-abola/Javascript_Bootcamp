@@ -1,0 +1,56 @@
+
+body {
+    text-align: center;
+    color: #272637; 
+    margin: 0;
+
+}
+
+.introduction-section {
+    display: flex;
+    gap: 5rem;
+}
+
+.top-container {
+
+    padding: 11rem 25rem;
+    background-color: #D3E4CD;
+}
+
+.division-container {
+    background-color: #EDC6B1;
+    height: 5rem;
+}
+
+.ieva-img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+
+.middle-container {
+    background-color: #B7B7B7;
+    padding: 3rem;
+}
+
+.skills-section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.skills-item img {
+    height: 10rem;
+}
+
+.skills-item {
+    width: 20rem;
+    background-color: white;
+    border-radius: 10%;
+    margin: 1rem;
+}
+
+.skills-item p {
+    padding: 8px 30px
+}
