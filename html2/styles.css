@@ -1,0 +1,68 @@
+
+body {
+    text-align: center;
+    color: #272637; 
+    margin: 0;
+
+}
+
+/* TOP SECTION - introduction */
+
+.division-container {
+    background-color: #EDC6B1;
+    height: 1.2rem;
+    padding: 2rem;
+}
+
+.top-container {
+    padding: 11% 20%; 
+    background-color: #D3E4CD;
+}
+
+.introduction-section {
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+
+.introduction-text {
+    width: 40%;
+    line-height: 1.5;
+}
+
+.ieva-img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+
+
+/* MIDDLE SECTION - skills and hobbies */
+
+.middle-container {
+    background-color: #B7B7B7;
+    padding: 3rem;
+}
+
+.skills-section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.skills-item img {
+    height: 10rem;
+    border-radius: 20%;
+}
+
+.skills-item {
+    width: 20rem;
+    background-color: white;
+    border-radius: 10%;
+    margin: 2rem 1rem;
+}
+
+.skills-item p {
+    padding: 8px 30px
+}
